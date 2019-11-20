@@ -3,7 +3,7 @@
 # Description: A function that takes two string parameters and returns a set
 # of words in both strings in lower case
 
-def word_in_both(s1,s2):
+def words_in_both(s1,s2):
     """takes two string parameters and returns a set of the
     words (in lower case)contained in both strings
     -capitalization doesn't matter"""
